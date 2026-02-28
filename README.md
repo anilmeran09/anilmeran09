@@ -116,8 +116,7 @@ Chameli Devi Group of Institutions, Indore (MP)
 
 ## 📊 GitHub Stats
 
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
+![Anil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anilmeran09&show_icons=true&theme=tokyonight)
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
