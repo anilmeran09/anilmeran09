@@ -1,8 +1,12 @@
 # Hi 👋 I'm Anil Meran
 
-🚀 Data Engineer | Python & Django Developer | Cloud & ETL Enthusiast  
+🚀 Python Developer | Django & FastAPI Developer | Data Engineer | Cloud & ETL Enthusiast  
 
-I am a Data Engineer with experience in building scalable data pipelines, backend systems, and REST APIs using Python and AWS. I enjoy solving real-world data problems and building reliable backend services.
+Software Engineer with 2+ years of experience building scalable backend systems and GenAI-powered applications. I specialize in Python, FastAPI, SQL, AWS, and automation—creating reliable APIs, data pipelines, and AI features.
+
+At AIQWIP, I work on backend architecture and GenAI integrations using FastAPI, OpenAI, and MCP tools to build intelligent, production-ready workflows. Previously, I developed ML-driven dashboards, LLM workflows, and Celery/Redis pipelines at Polynomial AI, and built AWS-based ETL pipelines and REST APIs at Zecdata.
+
+I enjoy turning ideas into working systems—combining backend engineering, data engineering, and GenAI to solve real-world problems efficiently.
 
 ---
 
@@ -14,7 +18,7 @@ I am a Data Engineer with experience in building scalable data pipelines, backen
 - Data Structures & Algorithms  
 
 **Frameworks & Tools:**  
-- Django, FastAPI  
+- Django, FastAPI, Langchain
 - REST API  
 - Docker, Git  
 
@@ -41,8 +45,6 @@ Automated data extraction and integration system that collects data from multipl
 - Loaded processed data into database  
 - Config-driven category scraping  
 
-🔗 Repository: https://github.com/yourusername/velocity-media
-
 ---
 
 ### 🔹 Content Elbert  
@@ -54,9 +56,6 @@ Integrated data labeling system for efficient data annotation and management.
 - REST APIs for dataset management  
 - Containerized deployment  
 - Cloud-based infrastructure  
-
-🔗 Repository: https://github.com/yourusername/content-elbert
-
 ---
 
 ### 🔹 Django Authentication System  
@@ -67,9 +66,6 @@ User authentication system with session management and two-step verification.
 - Login & Logout  
 - Session timeout  
 - Two-step verification  
-
-🔗 Repository: https://github.com/yourusername/django-auth-system
-
 ---
 
 ### 🔹 CRUD REST API Application  
@@ -80,19 +76,26 @@ A RESTful CRUD application for managing items using Django.
 - Create, Read, Update, Delete operations  
 - API-based data access  
 - JSON responses  
-
-🔗 Repository: https://github.com/yourusername/crud-api-app
-
 ---
 
 ## 💼 Experience
 
+**Software Engineer – AIQWIP(Sept 2025 - current)**  
+- Working on backend architecture and GenAI integrations using **FastAPI, OpenAI, and MCP tools**  
+- Building intelligent, production-ready workflows and APIs for AI-powered applications  
+- Designing scalable backend services and automation pipelines  
+
+**Software Engineer – Polynomial AI(Jan 2025 - Sept 2025)**  
+- Developed ML-driven dashboards and LLM-based workflows  
+- Built background task pipelines using **Celery and Redis**  
+- Integrated AI models into production systems for data analysis and automation  
+
 **Data Engineer – Zecdata Technology (Jul 2023 – Jun 2024)**  
-- Designed and optimized data pipelines using AWS services  
-- Developed ETL processes integrating data from multiple sources  
-- Built centralized data models for analytics  
-- Developed secure REST APIs using Django  
-- Collaborated with frontend developers for API integration  
+- Designed and optimized ETL pipelines using **AWS services**  
+- Integrated data from multiple sources into centralized databases  
+- Built REST APIs for data access and processing  
+- Developed data models for analytics and reporting  
+- Collaborated with frontend teams for API integration  
 
 ---
 
@@ -105,24 +108,16 @@ Chameli Devi Group of Institutions, Indore (MP)
 
 ## 📫 Contact
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 📄 Resume: https://drive.google.com/your-resume-link  
+- 📧 Email: anilmeran80@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/anilmeran   
+- 📄 Resume: https://drive.google.com/file/d/1F9xiZyHS6Ojprkdk5Y_nuOxhq4NQgffO/view?usp=drive_link  
+
+---
+
+## 📊 GitHub Stats
+
+![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
-<!--
-**anilmeran09/anilmeran09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
